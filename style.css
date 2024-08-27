@@ -2,3 +2,10 @@ h1{
     background-color: gold;
     color: black;
 }
+
+.nav{
+    background-color: black;
+    color: gold;
+    display: flex;
+    flex-direction: column;
+}
